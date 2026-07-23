@@ -60,7 +60,7 @@ leaflengthlong %>%
   group_by(species) %>%
   summarize(mean.shoot.biomass = mean(shoot.biomass))
 
-# Advanced tidy-code: Piping "%>%" -----------------------------------------------------
+# Advanced tidy-code: Piping "%>%" ------------------------------------------------------
 
 ## 4.1 piping is a coding style that allows you to write and run the code faster and more efficiently. we've alreday  introduced some of it above.
 
