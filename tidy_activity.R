@@ -81,6 +81,6 @@ egg %>%
 
 # you can see that piping allows you to skip saving intermediate objects (white_and_yolk)
 
-###### Question 22: turn the following pseudo-code into pipes:
+###### Question: turn the following pseudo-code into pipes:
 omelette_batter <- beat(white_and_yolk)
 omelette_with_chives <- cook(omelette_batter, add_chives) ######
